@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bhetghat Slip</string>
+    <string name="title_home">Request List</string>
+    <string name="title_dashboard">Approve List</string>
+    <string name="title_notifications">Pending List</string>
+</resources>
